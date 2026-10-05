@@ -25,5 +25,5 @@ Hiện tượng *Recall Cliff* khi post-filter sập từ 1.00 về 0.00 chỉ v
 
 ## Bonus challenge
 
-- [ ] Đã làm bonus (xem `bonus/`)
+- [x] Đã làm bonus (xem `bonus/`)
 - [ ] Pair work với: _<tên đồng đội nếu có>_
